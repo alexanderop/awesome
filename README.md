@@ -1,6 +1,6 @@
-# awesome
+# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 my personal list of awesome stuff
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 # content
 [Books](#books) (good books about software development that I would recommend)
